@@ -282,25 +282,58 @@ Art. 36. Atribuţii
 Secțiunea B - Structuri Locale
 ==============================
 
+B0 - Filale
+Art. x. Componenţă
+	(1) La nivel local, ONCR are filiale.
+	(2) Acestea au nume proprii şi se înfiinţează de către ONCR, prin decizia Consiliului Director şi au în componenţă minim un Centru Local.
+	(3) Într-o localitate pot funcţiona mai multe Filiale, în limita respectării prevederilor Regulamentului ONCR.
+	(5) Filialele pot avea patrimoniu propriu, în conformitate cu legislația în vigoare și Regulamenul ONCR.
+	(6) Obținerea sau retragerea calității de membru într-o altă structură (cu personalitatea juridică) de către o filială ONCR se realizează cu aprobarea Consiliului Director, în limitele prevederilor Statutului și Regulamentului ONCR.
+
+Art. x. Atribuţii:
+	b. identifică și gestionează resursele materiale și financiare;
+  c. coordonează relaţiile de reprezentare către instituţii şi parteneri locali;
+  d. asigură comunicarea între Structurile Naţionale ale ONCR şi membri;
+
+Art. x. Filialele se desfiinţează prin decizia Consiliului Director, pentru lipsa de activitate, comunicare, Centre Locale, pentru neplata cotizaţiei, în condiţiile prevăzute de Regulamenul ONCR.
+
+B0 - Adunarea Generală a Filialei
+=================================
+
+Art. x. Componenţă
+	(1) Adunarea Generală a Filialei este forul de conducere al Filialei, care administrează activităţile ONCR la nivel local.
+	(2) Adunarea Generală se convoacă în sesiune ordinară anuală, sau în sesiune extraordinară, ori de câte ori este nevoie.
+	(3) La aceste adunări participă, cu drept de vot, toţi membrii Consiliilor de Centru Local a Centrelor Locale din care fac parte.
+
+Art. x. Atribuţii.
+	(1) Adunarea Generală a Filialei are următoarele atribuții anuale:
+		a. dezbate raportul de activitate al Preşedintelui și al cenzorilor;
+		c. dă descărcare de gestiune ordonatorului principal de credite pentru anul trecut;
+		d. aprobă bugetul pentru anul următor și adoptă deciziile ce se impun;
+
+	(2) Adunarea Generală a Centrului Local are următoarele atribuții trienale:
+		a. evaluează individual și colectiv activitatea organelor locale al căror mandat se încheie;
+		c. alege Preşedintele și Cenzorii;
+
+B0 - Conducerea Filialei
+  Preşedinte + echipa ? ? ? ? ?
+
 B1 - Centrul Local
 ===================
 			
 Art. 37. Componenţă
-	(1) La nivel local, ONCR are filiale și sucursale, numite Centre Locale.
-	(2) Acestea au nume proprii şi se înfiinţează de către ONCR, prin decizia Consiliului Director, la cererea unui grup de iniţiativă local, format din minimum 5 adulţi şi 20 copii şi/sau tineri.
+	(1) La nivel local filialele au sucursale, numite Centre Locale.
+	(2) Acestea au nume proprii şi se înfiinţează de către filiale, prin decizia Adunării Generale a Filialei şi sunt formate din minim 1 lider ONCR, 4 adulţi şi 20 de copii.
 	(3) Într-o localitate pot funcţiona mai multe Centre Locale, în limita respectării prevederilor Regulamentului ONCR.
 	(4) Centrele Locale se bucură de autonomie decizională şi au libertatea de asociere în scopul derulării de activităţi specifice şi păstrării identităţii.
-	(5) Centrul local poate avea patrimoniu propriu, în conformitate cu legislația în vigoare și Regulamenul ONCR.
-	(6) Obținerea sau retragerea calității de membru într-o altă structură (cu personalitatea juridică) de către o sucursală sau filială ONCR se realizează cu aprobarea Consiliului Director, în limitele prevederilor Statutului și Regulamentului ONCR.
 			
 Art. 38. Atribuţii:
 	a. facilitează activitățile desfășurate de cercetași;
-	b. identifică și gestionează resursele materiale și financiare;
 	c. coordonează activitatea membrilor de la nivel local;
 	d. reprezintă membrii în cadrul Adunării Generale a ONCR;
 	e. asigură comunicarea membrilor Centrului Local cu ceilalți membri ai ONCR sau cu structuri ale acesteia.
 			
-Art. 39. Centrele Locale se desfiinţează prin decizia Consiliului Director, pentru lipsa de activitate, comunicare, membri, pentru neprezentarea la trei Adunări Generale succesive sau a plății cotizaţiei, în condiţiile prevăzute de Regulamenul ONCR.
+Art. 39. Centrele Locale se desfiinţează prin decizia Consiliului Directorul sau a Adunării Generale a Filialei, pentru lipsa de activitatei sau membri, pentru neprezentarea la trei Adunări Generale succesive sau a plății cotizaţiei, în condiţiile prevăzute de Regulamenul ONCR.
 
 B2 - Adunarea Generală a Centrului Local
 =========================================
